@@ -1,0 +1,5 @@
+C:\Users\jbrugger\repo\edxCSharp\Module2\Peer\bin\Debug\Peer.exe.config
+C:\Users\jbrugger\repo\edxCSharp\Module2\Peer\bin\Debug\Peer.exe
+C:\Users\jbrugger\repo\edxCSharp\Module2\Peer\bin\Debug\Peer.pdb
+C:\Users\jbrugger\repo\edxCSharp\Module2\Peer\obj\Debug\Peer.exe
+C:\Users\jbrugger\repo\edxCSharp\Module2\Peer\obj\Debug\Peer.pdb

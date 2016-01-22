@@ -1,0 +1,6 @@
+C:\Users\jbrugger\repo\edxCSharp\Module2\Module2\bin\Debug\Module2.exe.config
+C:\Users\jbrugger\repo\edxCSharp\Module2\Module2\bin\Debug\Module2.exe
+C:\Users\jbrugger\repo\edxCSharp\Module2\Module2\bin\Debug\Module2.pdb
+C:\Users\jbrugger\repo\edxCSharp\Module2\Module2\obj\Debug\Module2.csprojResolveAssemblyReference.cache
+C:\Users\jbrugger\repo\edxCSharp\Module2\Module2\obj\Debug\Module2.exe
+C:\Users\jbrugger\repo\edxCSharp\Module2\Module2\obj\Debug\Module2.pdb
