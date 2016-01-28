@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeerCheck", "PeerCheck\Peer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module4", "Module4\Module4.csproj", "{799FD425-F8D4-45AB-BAF3-2808CD2F03C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module5", "Module5\Module5.csproj", "{3A9637E7-29CF-423A-936B-F0CFECB84859}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{799FD425-F8D4-45AB-BAF3-2808CD2F03C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{799FD425-F8D4-45AB-BAF3-2808CD2F03C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{799FD425-F8D4-45AB-BAF3-2808CD2F03C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A9637E7-29CF-423A-936B-F0CFECB84859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9637E7-29CF-423A-936B-F0CFECB84859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9637E7-29CF-423A-936B-F0CFECB84859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9637E7-29CF-423A-936B-F0CFECB84859}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
