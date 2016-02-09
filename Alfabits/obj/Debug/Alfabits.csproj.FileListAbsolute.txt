@@ -1,0 +1,6 @@
+C:\Users\jbrugger\repo\edxCSharp\Alfabits\bin\Debug\Alfabits.exe.config
+C:\Users\jbrugger\repo\edxCSharp\Alfabits\bin\Debug\Alfabits.exe
+C:\Users\jbrugger\repo\edxCSharp\Alfabits\bin\Debug\Alfabits.pdb
+C:\Users\jbrugger\repo\edxCSharp\Alfabits\obj\Debug\Alfabits.csprojResolveAssemblyReference.cache
+C:\Users\jbrugger\repo\edxCSharp\Alfabits\obj\Debug\Alfabits.exe
+C:\Users\jbrugger\repo\edxCSharp\Alfabits\obj\Debug\Alfabits.pdb

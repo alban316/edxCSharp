@@ -1,0 +1,6 @@
+C:\Users\jbrugger\repo\edxCSharp\alfa2\bin\Debug\alfa2.exe.config
+C:\Users\jbrugger\repo\edxCSharp\alfa2\bin\Debug\alfa2.exe
+C:\Users\jbrugger\repo\edxCSharp\alfa2\bin\Debug\alfa2.pdb
+C:\Users\jbrugger\repo\edxCSharp\alfa2\obj\Debug\alfa2.csprojResolveAssemblyReference.cache
+C:\Users\jbrugger\repo\edxCSharp\alfa2\obj\Debug\alfa2.exe
+C:\Users\jbrugger\repo\edxCSharp\alfa2\obj\Debug\alfa2.pdb
