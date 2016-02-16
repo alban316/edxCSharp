@@ -1,0 +1,6 @@
+C:\Users\jbrugger\repo\edxCSharp\module6_hands-on-practice\obj\Debug\GCPractice.csprojResolveAssemblyReference.cache
+C:\Users\jbrugger\repo\edxCSharp\module6_hands-on-practice\bin\Debug\gcpractice.exe.config
+C:\Users\jbrugger\repo\edxCSharp\module6_hands-on-practice\bin\Debug\gcpractice.exe
+C:\Users\jbrugger\repo\edxCSharp\module6_hands-on-practice\bin\Debug\gcpractice.pdb
+C:\Users\jbrugger\repo\edxCSharp\module6_hands-on-practice\obj\Debug\gcpractice.exe
+C:\Users\jbrugger\repo\edxCSharp\module6_hands-on-practice\obj\Debug\gcpractice.pdb

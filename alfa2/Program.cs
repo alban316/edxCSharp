@@ -230,10 +230,12 @@ namespace alfa2
                         string padding = new string('-', Phrase.PhraseSize - hint);
                         Console.WriteLine("{0}{1}", actual.Value.Substring(0, hint), padding);
 
+                        // begin -- for debugging only
                         Console.WriteLine("{0} G x {1}", actual.Value, actual.Count.G);
                         Console.WriteLine("{0} A x {1}", actual.Value, actual.Count.A);
                         Console.WriteLine("{0} T x {1}", actual.Value, actual.Count.T);
                         Console.WriteLine("{0} C x {1}", actual.Value, actual.Count.C);
+                        // end -- for debugging only
 
                         if (hint < Phrase.PhraseSize)
                         {
