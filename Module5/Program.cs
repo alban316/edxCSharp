@@ -12,6 +12,7 @@ namespace Module5
         {
             try
             {
+                /*
                 Teacher[] teacher = new Teacher[3];     
                 Student[] student = new Student[3];
 
@@ -31,8 +32,11 @@ namespace Module5
                 Console.WriteLine("The {0} program contains the {1} degree\n", program.ProgramTitle, program.Degree.DegreeTitle); //#10.1
                 Console.WriteLine("The {0} degree contains the course {1}\n", degree.DegreeTitle, degree.Course.CourseTitle); //#10.2
                 Console.WriteLine("The {0} course contains {1} student(s)", degree.Course.CourseTitle, Student.StudentCount); //#10.3
+                */
+                
+                    
+    
                 Console.WriteLine("Press any key to continue . . . ");
-
                 Console.ReadKey();
             }
 
