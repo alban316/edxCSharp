@@ -1,0 +1,92 @@
+// Part One
+public void Linq3()
+{
+	List<Product> products = GetProductList();
+
+	var expensiveInStockProducts =
+		from rows in products
+		where rows.UnitPrice > 3 && rows.UnitsInStock > 0
+		select new Product {
+			ProductID = rows.ProductID,
+			ProductName = rows.ProductName,
+			Category = rows.Category,
+			UnitPrice = rows.UnitPrice,
+			UnitsInStock = rows.UnitsInStock
+		};
+
+
+	Console.WriteLine("In-stock products that cost more than 3.00:");
+	foreach (var product in expensiveInStockProducts)
+	{
+		Console.WriteLine("{0} is in stock and costs more than 3.00.", product.ProductName);
+	}
+}
+
+public void Linq4()
+{
+	List<Customer> customers = GetCustomerList();
+
+	//TODO: Create code to implement the functionality listed in the [Description] tag for this query
+	var waCustomers =
+		from rows in customers
+		where rows.Region == "WA"
+		select new Customer
+		{
+			CustomerID = rows.CustomerID,
+			CompanyName = rows.CompanyName,
+			Address = rows.Address,
+			City = rows.City,
+			Region = rows.Region,
+			PostalCode = rows.PostalCode,
+			Country = rows.Country,
+			Phone = rows.Phone,
+			Fax = rows.Fax,
+			Orders = rows.Orders
+		};
+
+
+	Console.WriteLine("Customers from Washington and their orders:");
+	foreach (var customer in waCustomers)
+	{
+		Console.WriteLine("Customer {0}: {1}", customer.CustomerID, customer.CompanyName);
+		foreach (var order in customer.Orders)
+		{
+			Console.WriteLine("  Order {0}: {1}", order.OrderID, order.OrderDate);
+		}
+	}
+}
+
+
+// Part Two
+public void Linq30()
+{
+	List<Product> products = GetProductList();
+
+	//TODO: Enter code here to order products by name
+	// You don't need to write code to output these values as this next line of code does it for you
+	var sortedProducts =
+		from rows in products
+		orderby rows.ProductName descending
+		select rows;
+
+
+	ObjectDumper.Write(sortedProducts);
+}
+
+
+public void Linq32()
+{
+	double[] doubles = { 1.7, 2.3, 1.9, 4.1, 2.9 };
+
+	//TODO: Enter code here to order this list in descending order
+	var sortedDoubles =
+		from rows in doubles
+		orderby rows descending
+		select rows;
+
+	Console.WriteLine("The doubles from highest to lowest:");
+	foreach (var d in sortedDoubles)
+	{
+		Console.WriteLine(d);
+	}
+}
